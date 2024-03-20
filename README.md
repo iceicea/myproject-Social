@@ -36,15 +36,15 @@ Login 成功后进入主页面
 
 进入他人 profile 可以进行关注
 
-![Alt text](image-8.png)
+![Alt text](img/image-8.png)
 
 进入自己 profile 可以进行更新信息,包括修改头像与背景图,修改用户信息等.
 
-![Alt text](image-9.png)
+![Alt text](img/image-9.png)
 
-![Alt text](image-10.png)
+![Alt text](img/image-10.png)
 
-![Alt text](image-11.png)
+![Alt text](img/image-11.png)
 
 ### 待完成:
 
