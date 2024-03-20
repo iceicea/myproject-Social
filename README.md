@@ -1,34 +1,34 @@
 ### Login 页面
 
-![Alt text](image.png)
+![Alt text](img/image.png)
 
 ### Register 页面
 
 注册已经存在的账号会提示
-![Alt text](image-1.png)
+![Alt text](img/image-1.png)
 
 ### Home 页面
 
 Login 成功后进入主页面
-![Alt text](image-2.png)
+![Alt text](img/image-2.png)
 
 可以切换全局 DarkMode
-![Alt text](image-3.png)
+![Alt text](img/image-3.png)
 
 在 Share 组件中可以选择添加图片,文字并分享
-![Alt text](image-4.png)
+![Alt text](img/image-4.png)
 
-![Alt text](image-5.png)
+![Alt text](img/image-5.png)
 
 可以对自己或他人的 post 评论点赞分享
-![Alt text](image-6.png)
+![Alt text](img/image-6.png)
 
-![Alt text](image-7.png)
+![Alt text](img/image-7.png)
 
 点赞后可以发现数据库中添加了 likes
 
-![Alt text](image-12.png)
-![Alt text](image-13.png)
+![Alt text](img/image-12.png)
+![Alt text](img/image-13.png)
 
 ### Profile
 
