@@ -1,0 +1,61 @@
+export const getRandomName = () => {
+  const firstNames = [
+    'Alice',
+    'Bob',
+    'Charlie',
+    'David',
+    'Eve',
+    'Frank',
+    'Grace',
+    'Heidi',
+    'Ivan',
+    'Judy',
+    'Kate',
+    'Leo',
+    'Mia',
+    'Nate',
+    'Olivia',
+    'Paul',
+    'Queenie',
+    'Randy',
+    'Steve',
+    'Tina',
+    'Uma',
+    'Vivian',
+    'Walter',
+    'Xenia',
+    'Yolanda',
+    'Zach',
+  ];
+  const lastNames = [
+    'Smith',
+    'Johnson',
+    'Williams',
+    'Brown',
+    'Jones',
+    'Garcia',
+    'Rodriguez',
+    'Lee',
+    'Walker',
+    'Martinez',
+    'Clark',
+    'Wilson',
+    'Taylor',
+    'Moore',
+    'Anderson',
+    'Thomas',
+    'Jackson',
+    'White',
+    'Harris',
+    'Sanchez',
+    'Clark',
+    'Lewis',
+    'Robinson',
+    'Turner',
+  ];
+
+  const firstName = firstNames[Math.floor(Math.random() * firstNames.length)];
+  const lastName = lastNames[Math.floor(Math.random() * lastNames.length)];
+
+  return `${firstName} ${lastName}`;
+};
